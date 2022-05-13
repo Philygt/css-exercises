@@ -1,9 +1,10 @@
-avatar proportioned {
+.avatar.proportioned {
     width: 300px;
+    height: auto;
     /* height somehow 'retain original square proportions */
     }
 
-avatar distorted {
+.avatar.distorted {
         width: 200px;
         height: 400px;
     }
